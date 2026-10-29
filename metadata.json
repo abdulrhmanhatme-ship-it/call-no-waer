@@ -1,0 +1,10 @@
+{
+  "name": "Remix أثير - اتصال لاسلكي عبر الواي فاي والإنترنت (Atheer Intercom)",
+  "description": "برنامج اتصال صوتي ولاسلكي سريع وفائق الخفة وموفر للبطارية للجوالات والكمبيوتر عبر شبكة الواي فاي المحلية والإنترنت بدون كابلات USB",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

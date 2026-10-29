@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "أثير - جهاز اتصال لاسلكي",
+  "short_name": "أثير لاسلكي",
+  "description": "برنامج اتصال لاسلكي فائق الخفة وموفر للبطارية للجوالات والكمبيوتر عبر الواي فاي والإنترنت",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

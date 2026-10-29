@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#020617"/>
+  <!-- Radio Antenna -->
+  <rect x="180" y="40" width="28" height="120" rx="14" fill="#334155"/>
+  <rect x="186" y="50" width="16" height="25" rx="8" fill="#10b981"/>
+  <!-- Radio Body -->
+  <rect x="120" y="140" width="272" height="330" rx="44" fill="#0f172a" stroke="#1e293b" stroke-width="8"/>
+  <!-- Accent Line -->
+  <rect x="140" y="160" width="232" height="6" rx="3" fill="#10b981"/>
+  <!-- Speaker Grill Lines -->
+  <line x1="170" y1="360" x2="342" y2="360" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <line x1="190" y1="390" x2="322" y2="390" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <line x1="210" y1="420" x2="302" y2="420" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <!-- Screen LCD -->
+  <rect x="160" y="190" width="192" height="110" rx="20" fill="#022c22" stroke="#059669" stroke-width="4"/>
+  <!-- Screen Wave -->
+  <path d="M 185 245 Q 210 215, 230 245 T 275 245 T 320 245" fill="none" stroke="#34d399" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="200" cy="215" r="4" fill="#34d399"/>
+  <circle cx="215" cy="215" r="4" fill="#34d399"/>
+  <circle cx="230" cy="215" r="4" fill="#34d399"/>
+</svg>
